@@ -81,5 +81,5 @@
 
 ## 📄 ライセンス
 
-本リポジトリのソースコードおよび設計資料は [MIT License](https://www.google.com/search?q=LICENSE) のもとで公開されています。商用・非商用を問わず自由にご利用・改変していただけます。
+本リポジトリのソースコードおよび設計資料は [GPLv3](https://www.gnu.org/licenses/gpl-3.0.ja.html) のもとで公開されています。
 
